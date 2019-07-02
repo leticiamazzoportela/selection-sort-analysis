@@ -1,2 +1,1 @@
-# Análise de Algoritmos
-Repositório destinado aos projetos da disciplina de Análise de Algoritmos
+# Análise do algoritmo de ordenação Selection Sort
